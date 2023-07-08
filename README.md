@@ -71,5 +71,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" title="debian" alt="debian" width="32" height="32"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="32" height="32"/>&nbsp;
   <img src="https://raw.githubusercontent.com/kilian-paquier/devicon/0abefbb7b67585babf86bc502b4b11acf10afde3/icons/archlinux/archlinux-original.svg" title="archlinux" alt="archlinux" width="32" height="32"/>&nbsp;
-   <img src="https://upload.wikimedia.org/wikipedia/commons/7/70/Artix_logo.svg" title="artixlinux" alt="artixlinux" width="32" height="32"/>&nbsp;
+   <img src="https://en.wikipedia.org/wiki/OpenSUSE#/media/File:OpenSUSE_Logo.svg" title="openSUSE" alt="openSUSE" width="32" height="32"/>&nbsp;
 </div>
