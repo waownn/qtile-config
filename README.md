@@ -9,13 +9,13 @@
   
   <div id="badges">
     <a href=https://www.reddit.com/user/waleedfreeman/>
-      <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+      <img src="https://img.shields.io/badge/reddit-%230077B5.svg?style=for-the-badge&logo=reddit&logoColor=white"/>
     </a>
     <a href="https://discord.com/">
       <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/>
     </a>
-    <a href="https://open.spotify.com/user/31iah7denuc7hf65meu6d6hqmvyi">
-      <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white"/>
+    <a href="https://www.youtube.com/channel/UC4-Rq457XGqRk6Jp0xUBGfg">
+      <img src="https://img.shields.io/badge/youtube-1ED760?style=for-the-badge&logo=youtube&logoColor=white"/>
     </a>
   </div>
   
@@ -71,5 +71,5 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/debian/debian-original.svg" title="debian" alt="debian" width="32" height="32"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu" alt="Ubuntu" width="32" height="32"/>&nbsp;
   <img src="https://raw.githubusercontent.com/kilian-paquier/devicon/0abefbb7b67585babf86bc502b4b11acf10afde3/icons/archlinux/archlinux-original.svg" title="archlinux" alt="archlinux" width="32" height="32"/>&nbsp;
-   <img src="https://en.wikipedia.org/wiki/OpenSUSE#/media/File:OpenSUSE_Logo.svg" title="openSUSE" alt="openSUSE" width="32" height="32"/>&nbsp;
+   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/OpenSUSE_Logo.svg" title="openSUSE" alt="openSUSE" width="32" height="32"/>&nbsp;
 </div>
